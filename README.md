@@ -66,4 +66,4 @@ Good contribution areas:
 
 ## License
 
-No license file is currently included. Add one before public distribution if needed.
+MIT. See `LICENSE`.
