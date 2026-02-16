@@ -11,6 +11,10 @@ Users move through a guided flow:
 
 The app is built with React + TypeScript + Vite and uses local data constants only.
 
+## Live Demo
+
+https://agentsmd.buildera.dev
+
 ## Production Readiness
 
 - Static build output via Vite (`dist/`)
